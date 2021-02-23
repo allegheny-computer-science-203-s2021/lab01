@@ -15,8 +15,8 @@
   + [Accessing the Repository](#accessing-the-repository)
 
   + [Tasks](#tasks)
- 
- * [Creating the Assessment Guide](#creating-the-assessment-guide)
+
+* [Creating the Assessment Guide](#creating-the-assessment-guide)
 
   + [Accessing the Repository](#accessing-the-repository)
 
@@ -62,7 +62,7 @@ technical leaders for feedback on the work that you completed for this laborator
 
 * To learn how to use Markdown to complete technical writing tasks.
 
-* To reflect on the process to be able to continue improving professional and technical skills. 
+* To reflect on the process to be able to continue improving professional and technical skills.
 
 ## Reading Assignment
 
@@ -123,11 +123,10 @@ the assessment guide.
 
 For the assessment guide portion of the laboratory assignment,  your  task  is  to  collaborate  with  the
 members  of  your  class  to  write  a  full-featured assessment, using
-the GitHub Flow model to facilitate collaboration. 
+the GitHub Flow model to facilitate collaboration.
 
 As with the conduct guide, please use repository branches and pull requests
-to ensure that your  work  is  ultimately  added  to  the  repository's  main
-branch.   
+to ensure that your  work  is  ultimately  added  to  the  repository's  main branch.
 
 ### Team Work
 
@@ -194,10 +193,9 @@ that all relevant repositories receive a CI pass.
   this assignment. As a part of this grade, the instructor will assess aspects
   of the project including, but not limited to, the use of effective Markdown
   syntax, correct use of GitHub flow practices, and appropriate Git commit messages. 
-  Students are encouraged to ask the
-  course instructor or a student technical leader to use the GitHub issue
-  tracker to provide feedback on how well their work demonstrates mastery of the
-  assignment's technical knowledge and skills.
+  Students are encouraged to ask the course instructor or a student technical leader
+  to use the GitHub issue tracker to provide feedback on how well their work demonstrates
+  mastery of the assignment's technical knowledge and skills.
 
 All grades for this project will be reported through a student's gradebook GitHub
 repository.
