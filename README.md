@@ -15,10 +15,20 @@
   + [Accessing the Repository](#accessing-the-repository)
 
   + [Tasks](#tasks)
+ 
+ * [Creating the Assessment Guide](#creating-the-assessment-guide)
 
-  + [Team Work](#team-work)
+  + [Accessing the Repository](#accessing-the-repository)
 
-* [Problems](problems-with-the-conduct-guide)
+  + [Tasks](#tasks)
+
+* [Team Work](#team-work)
+
+* [Assignment Assessment](#assignment-assessment)
+
+* [Reporting Problems](reporting-problems)
+
+* [Receiving Assistance](receiving-assistance)
 
 ## Summary
 
@@ -61,8 +71,7 @@ that explain how to use many of the features
 that GitHub provides. In  particular,  please  make  sure  that  you  have  read
 guides  such  as  "Mastering  Markdown"  and "Documenting Your Projects on GitHub";
 each of them will help you to understand how to use both GitHub and GitHub Classroom.
-You are also expected to read [ACM's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics).
-Please see the course instructor if you have questions on these reading assignments.
+You are also expected to read [ACM's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics). Please see the course instructor if you have questions on these reading assignments.
 
 Please watch a video introducing the Code of Conduct development on YouTube: [![Code Of Conduct Assignment Introduction](CodeOfConduct_YouTubeThumbnail_small.png)](https://www.youtube.com/watch?v=HNwsIX8TJE8&list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0&index=1&t=13s)
 
