@@ -166,9 +166,7 @@ a red :heavy_multiplication_x: will appear instead.
 The grade that a student receives on this assignment will have the following
 components.
 
-- **GitHub Actions CI Build Status [up  to 30%]:**: For each of three repositories associated with this assignment students will receive a checkmark grade if their last before-the-deadline
-build passes. Students are encouraged to repeatedly revise their submission to ensure
-that all relevant repositories receive a CI pass.
+- **GitHub Actions CI Build Status [up  to 30%]:**: For each of three repositories associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. Students are encouraged to repeatedly revise their submission to ensure that all relevant repositories receive a CI pass.
 
 - **Mastery of Technical Writing [up  to 15%]:**: Students will also receive a checkmark grade
   when the responses to the technical writing questions presented in the
