@@ -51,8 +51,7 @@ that:
 
 - This GitHub repository contains a complete reflection file.
 
-- You have followed the required best practices for asking the course instructor and
-technical leaders for feedback on the work that you completed for this laboratory assignment.
+- You have followed the required best practices for asking the course instructor and technical leaders for feedback on the work that you completed for this laboratory assignment.
 
 ## Objectives
 
@@ -167,8 +166,7 @@ a red :heavy_multiplication_x: will appear instead.
 The grade that a student receives on this assignment will have the following
 components.
 
-- **GitHub Actions CI Build Status [up  to 30%]:**: For each of three repositories associted
-with this assignment students will receive a checkmark grade if their last before-the-deadline
+- **GitHub Actions CI Build Status [up  to 30%]:**: For each of three repositories associated with this assignment students will receive a checkmark grade if their last before-the-deadline
 build passes. Students are encouraged to repeatedly revise their submission to ensure
 that all relevant repositories receive a CI pass.
 
@@ -181,7 +179,7 @@ that all relevant repositories receive a CI pass.
   encouraged to ask the course instructor or a student technical leader to use
   the GitHub issue tracker to provide feedback on their mastery of technical
   writing skills.
-  
+
 - **Level of Contribution [up  to 30%]:**: Students will also receive a checkmark grade
   when their level of contribution indicates active engagement in the process of development
   of conduct and assessment guides. It is expected that each member of the class
@@ -192,7 +190,7 @@ that all relevant repositories receive a CI pass.
   all of the technical knowledge and skills developed during the completion of
   this assignment. As a part of this grade, the instructor will assess aspects
   of the project including, but not limited to, the use of effective Markdown
-  syntax, correct use of GitHub flow practices, and appropriate Git commit messages. 
+  syntax, correct use of GitHub flow practices, and appropriate Git commit messages.
   Students are encouraged to ask the course instructor or a student technical leader
   to use the GitHub issue tracker to provide feedback on how well their work demonstrates
   mastery of the assignment's technical knowledge and skills.
@@ -208,7 +206,7 @@ documentation, then you can go to the [Computer Science 203 Spring 2021 Lab
 repository and [raise an
 issue](https://github.com/allegheny-computer-science-203-s2021/lab01/issues).
 To ensure that your issue is properly resolved, please provide as many details
-as is possible about the problem that you experienced. 
+as is possible about the problem that you experienced.
 
 Whenever possible, individuals who find, and use the appropriate GitHub issue
 tracker to correctly document a mistake in any aspect of this assignment will
