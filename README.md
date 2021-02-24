@@ -122,7 +122,10 @@ the assessment guide.
 
 For the assessment guide portion of the laboratory assignment,  your  task  is  to  collaborate  with  the
 members  of  your  class  to  write  a  full-featured assessment, using
-the GitHub Flow model to facilitate collaboration.
+the GitHub Flow model to facilitate collaboration. You should first develop the list of technical and
+professional skills on which you want to be assessed during the Spring 2021
+semester. Then, you should describe the student behaviors that would lead to an
+assessment at one of the five levels.
 
 As with the conduct guide, please use repository branches and pull requests
 to ensure that your  work  is  ultimately  added  to  the  repository's  main branch.
